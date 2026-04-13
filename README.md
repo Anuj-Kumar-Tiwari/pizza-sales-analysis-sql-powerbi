@@ -103,10 +103,6 @@ LIMIT 5;
 
 ---
 
----
-
----
-
 ## 👤 Author
 
 **Anuj Kumar Tiwari** — Aspiring Data Analyst
