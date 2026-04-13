@@ -86,12 +86,13 @@ LIMIT 5;
 ---
 
 ## 📂 Project Structure
-```text
+```
 ├── 📂 data/                    # CSV Data Files (Orders, Pizzas, etc.)
 ├── 📄 pizza_sales_project_script.sql  # PostgreSQL KPI Queries
 ├── 📊 pizza_sales_dashboard.pbix      # Power BI Dashboard File
 ├── 📝 pizza_sales_report.pdf          # Detailed Analysis Report
 └── 📝 README.md                       # Project Documentation
+```
 ---
 
 ## 💡 Recommendations
