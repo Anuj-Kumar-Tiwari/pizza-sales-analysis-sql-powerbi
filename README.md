@@ -118,11 +118,7 @@ LIMIT 5;
 <div align="center">
   ⭐ <b>If you like this project, feel free to star the repository!</b>
 </div>
-Kya add kiya:
 
-LinkedIn badge — resume se aapka full LinkedIn URL liya: anuj-kumar-tiwari-107704208
-Gmail badge — anuujji@gmail.com
-GitHub badge — Anuj-Kumar-Tiwari
 
-Teen badges ek saath center mein sundar dikhen ge GitHub par. Bas copy karke paste kar do!
+
 
